@@ -12,4 +12,4 @@ Hardware Requirements
 Software Requirements
 ---------------------
 
-https://github.com/adafruit/DHT-sensor-library
+* Install https://github.com/adafruit/DHT-sensor-library
